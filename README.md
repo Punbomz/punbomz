@@ -33,8 +33,8 @@ src="https://img.shields.io/twitch/status/punbomz_z?logo=twitchsx&style=for-the-
 <a href="http://www.github.com/punbomz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=punbomz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
-<div style="display: inline-flex; gap: 50px; align-items: center;">
-<a href="https://www.buymeacoffee.com/punbomz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<div style="display: flex;">
+<a href="https://www.buymeacoffee.com/punbomz" style="margin-right: 50px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <a href="https://www.ko-fi.com/punbomz"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </div>
 
